@@ -1,3 +1,5 @@
+package Des;
+
 import java.util.Random;
 
 public class Des {

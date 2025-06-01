@@ -1,13 +1,17 @@
+package Entités.Caractéristiques;
+
+import Des.Des;
+
 import java.util.Scanner;
 
-public class Statistique {
+public class Caracteristiques {
     private int m_PV;
     private int m_force = 3;
     private int m_dexterite = 3;
     private int m_vitesse = 3;
     private int m_initiative = 3;
 
-    public Statistique() {
+    public Caracteristiques() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Voici tes stats pour l'instant :");
         this.AfficherStat();

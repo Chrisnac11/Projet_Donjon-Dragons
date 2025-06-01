@@ -1,13 +1,13 @@
 package Entités.Monstres;
 
-import Entités.Caractéristiques.CaractéristiquesMonstre;
+import Entités.Caractéristiques.CaracteristiquesMonstre;
 
 public class Monstre {
     private int id;
     private String espece;
-    private CaractéristiquesMonstre caracteristiques;
+    private CaracteristiquesMonstre caracteristiques;
 
-    public Monstre(int id, String espece, CaractéristiquesMonstre caracteristiques) {
+    public Monstre(int id, String espece, CaracteristiquesMonstre caracteristiques) {
         this.id = id;
         this.espece = espece;
         this.caracteristiques = caracteristiques;
@@ -29,11 +29,11 @@ public class Monstre {
         this.espece = espece;
     }
 
-    public CaractéristiquesMonstre getCaracteristiques() {
+    public CaracteristiquesMonstre getCaracteristiques() {
         return caracteristiques;
     }
 
-    public void setCaracteristiques(CaractéristiquesMonstre caracteristiques) {
+    public void setCaracteristiques(CaracteristiquesMonstre caracteristiques) {
         this.caracteristiques = caracteristiques;
     }
 

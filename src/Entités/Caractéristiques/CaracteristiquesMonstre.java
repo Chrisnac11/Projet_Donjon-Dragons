@@ -1,10 +1,10 @@
 package Entités.Caractéristiques;
 
-public class CaractéristiquesMonstre {
+public class CaracteristiquesMonstre {
     private int classeArmure;
     private String attaque;
 
-    public CaractéristiquesMonstre(int classeArmure, String attaque) {
+    public CaracteristiquesMonstre(int classeArmure, String attaque) {
         this.classeArmure = classeArmure;
         this.attaque = attaque;
     }
