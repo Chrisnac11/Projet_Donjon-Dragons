@@ -1,0 +1,19 @@
+### Intellij ###
+.idea/
+out/
+.idea_modules/
+*.iml
+modules.xml
+*.ipr
+
+### Java ###
+doc/
+*.class
+*.log
+*.ctxt
+*.jar
+*.zip
+*.tar.gz
+*.rar
+
+
