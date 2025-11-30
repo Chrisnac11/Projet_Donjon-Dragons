@@ -3,6 +3,8 @@
 On souhaite développer une application pour **un nouveau un jeu D&D**.
 C'est un jeu de rôle de Medieval Fantasy où les joueurs incarnent des personnages affrontant des monstres dans plusieurs donjons successifs.
 
+Projet non terminé : Seule la partie 1 a été implémentée et est fonctionnelle
+
 ## Organisation
 
 - Travail en **binôme** au sein d'un même groupe de TP
